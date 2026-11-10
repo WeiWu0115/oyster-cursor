@@ -6,3 +6,6 @@ Served via jsDelivr: https://cdn.jsdelivr.net/gh/WeiWu0115/oyster-cursor@main/SM
 
 Static cursor PNGs (rendered from the same model) for plain CSS `cursor:` use:
 `oyster-cursor.png` (32px), `oyster-cursor-hover.png` (40px), plus `@2x` versions.
+
+Original pop-art banana cursor (drawn from scratch, Warhol-*inspired* style only):
+`banana-cursor.png` (32px), `banana-cursor-hover.png` (40px, half-peeled), plus `@2x`. Source SVGs in `src/`.
